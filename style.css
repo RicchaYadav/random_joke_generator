@@ -49,7 +49,7 @@ body{
     font-weight: 500;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
 
     .container{
         height: 52vh;
